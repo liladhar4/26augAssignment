@@ -1,5 +1,5 @@
 (function(){
-    function newArryPrevNext( arr1,n) {
+    function newArryPrevNext( arr1) {
         
         if (n <= 1) 
             return; 
